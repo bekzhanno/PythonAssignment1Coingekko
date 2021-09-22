@@ -1,5 +1,5 @@
 # bekzhanno_coingecko
-Title: 
+Title:
 Assignment_1 CoinGecko
 Installation
 
