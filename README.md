@@ -21,11 +21,11 @@ cg = CoinGeckoAPI()
 ## Examples
 ```bash
 Enter for filtering top N cryptocurrencies by market capitalization:  5
-1 . Ethereum $ 361900884077 ***price: $ 3076.57
-2 . Cardano $ 71894536458 ***price: $ 2.24
-3 . Tether $ 69736713918 ***price: $ 1.0
-4 . Binance Coin $ 58482316169 ***price: $ 378.44
-5 . XRP $ 46345697639 ***price: $ 0.992038
+1 . Bitcoin $ 839127547557 ***price: $ 44578
+2 . Ethereum $ 368963169304 ***price: $ 3155.16
+3 . Cardano $ 72755846963 ***price: $ 2.28
+4 . Tether $ 69716501411 ***price: $ 1.01
+5 . Binance Coin $ 58596665490 ***price: $ 383.09
 ```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
