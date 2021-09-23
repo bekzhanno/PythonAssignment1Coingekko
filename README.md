@@ -1,4 +1,4 @@
-# bekzhanno_coingecko
+# coingecko_by_Zhanna
 ## Title:
 Assignment_1 CoinGecko
 ## Installation
